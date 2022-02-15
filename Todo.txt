@@ -1,3 +1,5 @@
 Windows
 -------
 1. Install ButterFS drivers [Reason: Cross platform file sharing]
+2. Install Gsudo [Reason: Easily elevate command shells]
+3. Install Chocolatey [Reason: An old fav package manager + it's choco]
