@@ -1,6 +1,6 @@
+@echo off
 REM Restart Wireless Connection
 REM Don’t restart if ping works.
-@echo off
 call config.bat wifi_settings
 
 ping -n 1 google.com
