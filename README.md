@@ -1,5 +1,5 @@
 # dotfiles
-Dotfiles and scripts to setup a new desktop and to automate tasks.
+Dotfiles and shell scripts to setup a new desktop and to automate tasks.
 
 ## What are dotfiles?
 Dotfiles are basically configuration files for various applications like desktop themes, VS Code themes, launch options, etc. These files are usually kept as hidden files in /home folder in Linux, so they are referred to as dotfiles since . prefix is used to hide a file.
