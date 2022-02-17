@@ -1,5 +1,10 @@
 # dotfiles
-Dotfiles and Powershell scripts to setup a new desktop and to automate tasks
+Dotfiles and scripts to setup a new desktop and to automate tasks.
+
+## What are dotfiles?
+Dotfiles are basically configuration files for various applications like desktop themes, VS Code themes, launch options, etc. These files are usually kept as hidden files in /home folder in Linux, so they are referred to as dotfiles since . prefix is used to hide a file.
+
+This repository contains dotfiles and some scripts used to automate mundane tasks like installing your favorite apps after reinstalling an OS, loading dotfiles, etc.
 
 ## Repository structure
 ```
