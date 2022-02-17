@@ -6,15 +6,18 @@ Dotfiles are basically configuration files for various applications like desktop
 
 This repository contains dotfiles and some scripts used to automate mundane tasks like installing your favorite apps after reinstalling an OS, loading dotfiles, etc.
 
+## Additional information
+[Reference Notes](NOTES.MD)
+
 ## Repository structure
 ```
 📦dotfiles
 ┣ 📂 Windows            # Windows scripts
 ┃ ┗ 📜 *.bat
-┃ ┗ 📜 config.bat       # contains variables for use in Windows scripts
+┃ ┗ 📜 config.bat       # Variables for use in Windows scripts
 ┣ 📂 Linux              # Linux dotfiles (TBA)
-┣ 📜 NOTES.MD           # contains reference notes regarding implementation of the scripts
-┣ 📜 Todo.txt           # contains rough notes on what I have to implement
+┣ 📜 NOTES.MD           # Reference notes regarding implementation of the scripts
+┣ 📜 Todo.txt           # Rough notes on what I have to implement
 ┣ LICENSE
 ┗ README.md
 ```
