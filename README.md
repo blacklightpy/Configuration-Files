@@ -18,8 +18,8 @@ This repository contains dotfiles and some scripts used to automate mundane task
 ┣ 📂 Linux              # Linux dotfiles (TBA)
 ┣ 📜 NOTES.MD           # Reference notes regarding implementation of the scripts
 ┣ 📜 Todo.txt           # Rough notes on what I have to implement
-┣ LICENSE
-┗ README.md
+┣ 📜 LICENSE
+┗ 📜 README.md
 ```
 
 ## Thanks to the Heroes
