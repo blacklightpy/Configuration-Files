@@ -29,3 +29,4 @@ I stole ideas and scripts from these people whenever I was too lazy to code by G
 1. [Jeremy Harlow](http://www.jeremyharlow.net/automatic-wi-fi-connectivity-checker-reconnect-script/) - Wi-Fi KeepAlive
 2. [Sygmond](https://stackoverflow.com/a/54718259) - Loading variables from external file
 3. [Will Ward](https://stackoverflow.com/a/57086391) -  Design tree listing with emojis and other unicode characters
+4. [Dmitriy](https://gist.github.com/beamop/56674c994627c2d12daae83c3438228c?permalink_comment_id=3750988#gistcomment-3750988) - Installing winget packages from a list
