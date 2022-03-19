@@ -12,13 +12,15 @@ NOTE: Refer Zoho Notes stash too
 2. Install Gsudo [Reason: Easily elevate command shells]
 3. Install Chocolatey [Reason: An old fav package manager + it's choco]
 4. Install KDEConnect [Reason: Interfacing with phone and other devices if any]
+Aesthetics:
+1. Install oh-my-posh themes
 
 Optional:
 1. Install Sysinternals Suite, now in Store [Reason: A set of debugging tools]
 
 Linux
 -----
-1. Install KDEConnect [Reason: Interfacing with phone and other devices if any]
+1. Install KDEConnect/GSConnect [Reason: Interfacing with phone and other devices if any]
 At Last:
 1. Show me favorited themes with previews for me to select from
 Optional: 
