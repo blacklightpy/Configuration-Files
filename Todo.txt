@@ -12,8 +12,8 @@ NOTE: Refer Zoho Notes stash too
 2. Install Gsudo [Reason: Easily elevate command shells]
 3. Install Chocolatey [Reason: An old fav package manager + it's choco]
 4. Install KDEConnect [Reason: Interfacing with phone and other devices if any]
-5. Install f.lux
-6. Install EyeLeo
+5. Install f.lux [Reason: Protect Eyes]
+6. Install EyeLeo [Reason: Protect eyes and body]
 Aesthetics:
 1. Install oh-my-posh themes
 
