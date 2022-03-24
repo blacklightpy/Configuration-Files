@@ -1,9 +1,12 @@
+General
+-------
+1. Create Profiles or Checklists like in the old XP Installers
+
 Pre-Boot
 --------
 Optional:
 1. Install Refind Boot Manager
 2. Select Refind themes from my list of favorites, with previews
-
 
 Windows
 -------
