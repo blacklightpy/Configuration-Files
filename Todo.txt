@@ -12,6 +12,8 @@ NOTE: Refer Zoho Notes stash too
 2. Install Gsudo [Reason: Easily elevate command shells]
 3. Install Chocolatey [Reason: An old fav package manager + it's choco]
 4. Install KDEConnect [Reason: Interfacing with phone and other devices if any]
+5. Install f.lux
+6. Install EyeLeo
 Aesthetics:
 1. Install oh-my-posh themes
 
@@ -21,6 +23,7 @@ Optional:
 Linux
 -----
 1. Install KDEConnect/GSConnect [Reason: Interfacing with phone and other devices if any]
+2. Install Eyeleo alternatives (list here: https://askubuntu.com/questions/370821/break-reminder-for-ubuntu)
 At Last:
 1. Show me favorited themes with previews for me to select from
 Optional: 
