@@ -14,6 +14,7 @@ NOTE: Refer Zoho Notes stash too
 4. Install KDEConnect [Reason: Interfacing with phone and other devices if any]
 5. Install f.lux [Reason: Protect Eyes]
 6. Install EyeLeo [Reason: Protect eyes and body]
+7. Install AppImageLauncher by TheAssassin [Reason: Easily Install AppImages from a GUI installer]
 Aesthetics:
 1. Install oh-my-posh themes
 
