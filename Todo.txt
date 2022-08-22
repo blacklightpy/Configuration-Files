@@ -2,6 +2,11 @@ General
 -------
 1. Create Profiles or Checklists like in the old XP Installers
 
+App Specific
+------------
+1. For Obsidian: Install plugins from my fav plugins list (when making new vaults)
+2. Install Chrome/Sidekick/Opera extensions from my fav extensions list (Chrome and Sidekick can sync extensions)
+
 Pre-Boot
 --------
 Optional:
