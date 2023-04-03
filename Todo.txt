@@ -1,6 +1,7 @@
 General
 -------
 1. Create Profiles or Checklists like in the old XP Installers
+  1.1. Or try to use chezmoi for managing dotfiles
 
 App Specific
 ------------
