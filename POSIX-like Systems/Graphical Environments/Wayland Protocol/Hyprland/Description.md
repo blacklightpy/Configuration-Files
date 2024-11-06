@@ -5,6 +5,7 @@
 
 # Environment Variables
 | Key-Value pair | Use |
+| --- | --- |
 | NO_AT_BRIDGE=1 | Forgot |
 | AGS_BUNDLER=esbuild | For AGS |
 
