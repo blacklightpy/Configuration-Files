@@ -1,3 +1,4 @@
+#incomplete
 # Monitor
 - I've disabled monitory e-DP1 (Laptop)
 - In the commentes, I have rules to set the right scaling for my 1280x1024 px monitor to match 1366x768 px
