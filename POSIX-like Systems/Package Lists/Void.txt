@@ -1,0 +1,393 @@
+# Apps
+
+7zip ImageMagick Thunar alacritty ardour btop feh firefox fish-shell gnome-bluetooth
+gnome-control-center gnome-disk-utility gnome-software gnome-text-editor gparted
+handbrake helix htop kde5-baseapps kdeconnect kdenlive kitty kwalletmanager lmms mc
+mediainfo mpv muse musescore nano nautilus nemo nethogs network-manager-applet
+psmisc python python-pip qemu qownnotes qtcreator qtractor rosegarden spectacle surf
+tmux virt-manager vlc w3m wofi xterm
+
+# Libraries
+
+dbus-glib gcompat gjs go-mtpfs gobject-introspection libappindicator
+libdbusmenu-gtk3 libgo libopencv-python3 libopencv4-python3 libspa-bluetooth
+libspa-vulkan libui mesa-dri mesa-vulkan-intel ncurses-libtinfo-libs protobuf
+python3-PyQt5 python3-grpcio-tools python3-pam python3-pip python3-pipx
+python3-pyclip python3-pyzstd qt6-multimedia qt6-wayland wlroots
+
+# Libraries (Devel)
+
+SDL-devel SDL2-devel SDL2_net-devel SDL_net-devel faad2-devel ffmpeg-devel
+gdk-pixbuf-devel gjs-devel glib-devel gtk+-devel gtk+3-devel gtkmm-devel
+jansson-devel libXpm-devel libglib-devel libgo-devel libogg-devel libopenal-devel
+libopenjpeg-devel libpcap-devel libprotoc-devel librsvg-devel libsecret-devel
+libui-devel libvorbis-devel ncurses-devel protobuf-c-devel protobuf-devel
+pulseaudio-devel python3-PyQt5-devel python3-gobject-devel qhttpengine-devel
+qt5-multimedia-devel qt5-tools-devel qt5-wayland-devel qt5-x11extras-devel
+qt6-declarative-devel qt6-multimedia-devel qt6-quick3d-devel qt6-svg-devel
+qt6-wayland-devel webkit2gtk-devel wlroots-devel
+
+# Tools and Utilities
+
+Vulkan-Tools alsa-utils android-tools automake bind-utils bison brightnessctl
+brillo cmake curl ddcutil dex dmenu eww flatpak flatpak-builder gammastep
+gammastep-indicator gcc gcc-go gettext-devel-tools git github-cli go grim hyprpicker
+inotify-tools iucode-tool lsof lxappearance lz4 lzip nodejs meson nwg-look octoxbps
+opencv opencv4 openjdk-jre pamixer pavucontrol pax-utils pinentry-qt pkg-config
+podman polkit-gnome read-edid redshift redshift-gtk rustup sassc scdoc slurp strace
+udftools waydroid wf-recorder wget whois wine winetricks xtools yarn yasm
+
+# Drivers
+
+alsa-pipewire android-file-transfer-linux android-udev-rules btrfs-progs exfatprogs
+gvfs gvfs-mtp gvfs-smb ntfs-3g pipewire simple-mtpfs wireplumber
+
+# Core System
+
+base-system
+
+# System Addons
+
+elogind nerd-fonts-symbols-ttf noto-fonts-cjk noto-fonts-emoji grub-x86_64-efi
+hyprland intel-ucode intel-video-accel kde5 picom plasma-desktop samba sddm
+socklog-void tlp ttf-ubuntu-font-family weston weston-xwayland void-repo-nonfree
+xdg-desktop-portal-gnome xdg-desktop-portal-gtk xdg-desktop-portal-hyprland
+xdg-user-dirs xdm xmonad xorg
+
+# IDK
+
+atomicparsley autoconf autorandr binfmt-support btdu gtk-layer-shell intltool jq
+kdialog maim ncdu patch qhttpengine swappy texinfo tumbler zenity               
+
+
+# Later Additions
+freecad kicad lmms schismtracker klystrack milkytracker furnace dijo Tuba lemoa
+menulibre blender godot libva-utils obs openshot shotcut flowblade audacious
+
+
+
+##############################
+
+
+sudo xbps-install ghidra
+sudo xbps-install -S
+sudo xbps-install gnome-tweak-tool
+sudo xbps-install zoxide
+xbps-query -f xbps-install
+sudo xbps-install chrome-gnome-shell
+sudo xbps-install gtk-engine-murrine
+sudo xbps-install gtk-engines-murrine
+sudo xbps-install ulauncher starship mako xava lite-xl
+sudo xbps-install ironbar
+sudo xbps-install doctest-devel inotify-tools-devel
+sudo xbps-install doctest-devel
+sudo xbps-install libevdev-devel
+sudo xbps-install glm libdrm libevdev libinput libpng libxkbcommon libxml2 pixman wayland-protocols wlroots meson cmake doctest doxygen libnotify base-devel pkg-config autoconf gobject-introspection gtk-layer-shell  libdbusmenu-gtk3 glib-devel
+sudo xbps-install glm libdrm libevdev libinput libpng libxkbcommon libxml2 pixman wayland-protocols wlroots meson cmake doctest doxygen libnotify base-devel pkg-config autoconf gobject-introspection gtk-layer-shell  libdbusmenu-gtk3 glib2-devel
+sudo xbps-install glm libdrm libevdev libinput libpng libxkbcommon libxml2 pixman wayland-protocols wlroots meson cmake doctest doxygen libnotify base-devel pkg-config autoconf gobject-introspection gtk-layer-shell  libdbusmenu-gtk3 gtkmm3 glib2-devel
+sudo xbps-install glm libdrm libevdev libinput libpng libxkbcommon libxml2 pixman wayland-protocols wlroots meson cmake doctest doxygen libnotify base-devel pkg-config autoconf gobject-introspection gtk-layer-shell scour libdbusmenu-gtk3 gtkmm3 glib2-devel
+sudo xbps-install glm libdrm libevdev libinput libpng libxkbcommon libxml2 pixman wayland-protocols wlroots meson cmake doctest doxygen nlohmann-json libnotify base-devel pkg-config autoconf gobject-introspection gtk-layer-shell scour libdbusmenu-gtk3 gtkmm3 glib2-devel
+sudo xbps-install glm libdrm libevdev libinput libjpeg libxkbcommon libxml2 pixman wayland-protocols wlroots meson cmake doctest doxygen nlohmann-json libnotify base-devel pkg-config autoconf gobject-introspection gtk-layer-shell scour libdbusmenu-gtk3 gtkmm3 glib2-devel
+sudo xbps-install glm libdrm libevdev libinput libjpeg libpng libxkbcommon libxml2 pixman wayland-protocols wlroots meson cmake doctest doxygen nlohmann-json libnotify base-devel pkg-config autoconf gobject-introspection gtk-layer-shell scour libdbusmenu-gtk3 gtkmm3 glib2-devel
+sudo xbps-install glm libdrm libevdev libgl libinput libjpeg libpng libxkbcommon libxml2 pixman wayland-protocols wlroots meson cmake doctest doxygen nlohmann-json libnotify base-devel pkg-config autoconf gobject-introspection gtk-layer-shell scour libdbusmenu-gtk3 gtkmm3 glib2-devel
+sudo xbps-install freetype2 glm libdrm libevdev libgl libinput libjpeg libpng libxkbcommon libxml2 pixman wayland-protocols wlroots meson cmake doctest doxygen nlohmann-json libnotify base-devel pkg-config autoconf gobject-introspection gtk-layer-shell scour libdbusmenu-gtk3 gtkmm3 glib2-devel
+sudo xbps-install xdg-desktop-portal-hyprland
+sudo xbps-install xdg-desktop-portal
+sudo xbps-install xfce4-settings
+sudo xbps-install glfw-devel
+sudo xbps-install calc
+sudo xbps-install libdrm-test-progs
+sudo xbps-install fbset
+sudo xbps-install wlr-randr
+sudo xbps-install calibre foliate
+sudo xbps-install screen
+sudo xbps-install bluez-mesh
+sudo xbps-install bluez
+sudo xbps-install hyprpicker
+sudo xbps-install vscode
+sudo xbps-install neovim
+sudo xbps-install nvim
+sudo xbps-install emacs
+sudo xbps-install exa
+sudo xbps-install -Sy
+sudo xbps-install lsd
+sudo xbps-install nerd-fonts
+sudo xbps-install cpufetch
+sudo xbps-install fastfetch
+sudo xbps-install -Syu
+sudo xbps-install -S hyprland
+sudo xbps-install rust-analyzer
+sudo xbps-install cinnamon-all mate-extra
+sudo xbps-install cinnamon
+sudo xbps-install lightdm-gtk-greeter
+sudo xbps-install lightdm-webkit-greeter lightdm-mini-greeter lightdm
+sudo xbps-install discover
+sudo xbps-install gnome gnome-apps
+sudo xbps-install lightdm-webkit-greeter
+sudo xbps-install hwinfo
+sudo xbps-install lightdm-mini-greeter
+sudo xbps-install wayfire
+sudo xbps-install Wayfire
+sudo xbps-install compiz-plugins-extra
+sudo xbps-install compiz-plugins-extras
+sudo xbps-install compiz-plugins-experimental
+sudo xbps-install lightdm-slick-greeter
+sudo xbps-install lightdm
+sudo xbps-install mate ccsm compiz-reloaded compiz-plugins-extra compiz-plugins-experimental emerald
+sudo xbps-install -Su helio-sequencer
+sudo xbps-install -Su helio-sequencer | less
+sudo xbps-install refind
+sudo xbps-install plymouth
+sudo xbps-install othman
+sudo xbps-install fbcat
+sudo xbps-install ark
+sudo xbps-install nmap
+sudo xbps-install ntp
+sudo xbps-install ntpd
+sudo xbps-install acl-progs
+sudo xbps-install vsv
+sudo xbps-install transmission-gtk
+sudo xbps-install transmission
+sudo xbps-install xonotic
+sudo xbps-install xonotic-data-low xonotic
+sudo xbps-install gwenview qiv qimgv qView phototonic viewnior geeqie fim eom eog
+sudo xbps-install net-tools
+sudo xbps-install netstat
+sudo xbps-install dolphin
+sudo xbps-install kdegraphics-thumbnailers
+sudo xbps-install ffmpegthumbs
+sudo xbps-install qt5-imageformats
+sudo xbps-install kimageformats
+sudo xbps-install kimageformats-5
+sudo xbps-install pfetch
+sudo xbps-install -u rustup
+sudo xbps-install rustup
+sudo xbps-install zstd-devel
+sudo xbps-install terminology
+sudo xbps-install resvg
+sudo xbps-install mdcat
+sudo xbps-install glow
+sudo xbps-install dwm
+sudo xbps-install netsurf
+sudo xbps-install libayatana-appindicator-devel
+sudo xbps-install ctop
+man xbps-install
+sudo xbps-install youtube-viewer
+sudo xbps-install mps-youtube yewtube
+sudo xbps-install -u freecad
+xbps-install -Sy
+sudo xbps-install motd
+sudo xbps-install fortune-mod fortune-mod-anarchism fortune-mod-de fortune-mod-void
+sudo xbps-install fortune-mod fortune-mod-anarchism fortune-mod-de forune-mod-void
+sudo xbps-install fortune fortune-mod-anarchism fortune-mod-de forune-mod-void
+sudo xbps-install fortune*
+sudo xbps-install cowsay-temoc ponysay xcowsay
+sudo xbps-install cowsay
+sudo xbps-install clang17 clang
+sudo xbps-install clang15
+45clearsudo xbps-install clang15
+sudo xbps-install libclang15
+sudo xbps-install libclang
+sudo xbps-install wine -u
+sudo xbps-install caca
+sudo xbps-install libcaca
+sudo xbps-install libsixel
+xbps-install libsixel
+sudo xbps-install $(# comment
+sudo xbps-install $(# comment)\
+sudo xbps-install `# echo` helix
+sudo xbps-install helix `# echo`
+xbps-install `# echo` helix
+sudo xbps-install ca-certificates file base-devel ninja scons ccache cmake pkgconf git shellcheck patchelf fdupes gzip tbb-devel pugixml-devel ocl-icd-devel OpenCL-Headers rapidjson libva-devel snappy-devel python3-pip python3-virtualenv python3-setuptools python3-devel python3-pybind11 libffi-devel python3-enchant wget flatbuffers-devel git-lfs enchant2-devel json-c++
+sudo xbps-install -Rs ca-certificates file base-devel ninja scons ccache cmake pkgconf git shellcheck patchelf fdupes gzip tbb-devel pugixml-devel ocl-icd-devel OpenCL-Headers rapidjson libva-devel snappy-devel python3-pip python3-virtualenv python3-setuptools python3-devel python3-pybind11 libffi-devel python3-enchant wget flatbuffers-devel git-lfs enchant2-devel json-c++
+sudo xbps-install -Rs ca-certificates file base-devel ninja scons ccache cmake pkgconf git shellcheck patchelf fdupes gzip tbb-devel pugixml-devel ocl-icd-devel OpenCL-Headers rapidjoson libva-devel snappy-devel python3-pip python3-virtualenv python3-setuptools python3-devel python3-pybind11 libffi-devel python3-enchant wget flatbuffers-devel git-lfs enchant2-devel json-c++
+sudo xbps-install scons ccache shellcheck patchelf fdupes tbb-devel pugixml-devel ocl-icd-devel OpenCL-Headers rapidjson libva-devel snappy-devel ffi-devel python3-enchant enchant2-devel flatbuffers-devel json-c++
+sudo xbps-install scons ccache shellcheck patchelf fdupes tbb-devel pugixml-devel ocl-icd-devel OpenCL-Headers rapidjson libva-devel snappy-devel python3-enchant enchant2-devel flatbuffers-devel json-c++
+sudo xbps-install scons ccache shellcheck patchelf fdupes tbb-devel pugixml-devel ocl-icd-opencl-devel OpenCL-Headers rapidjson libva-devel snappy-devel ffi-devel python3-enchant enchant2-devel flatbuffers-devel json-c++
+sudo xbps-install sscons ccache shellcheck patchelf fdupes tbb-devel pugixml-devel ocl-icd-opencl-devel OpenCL-Headers rapidjson libva-devel snappy-devel ffi-devel python3-enchant enchant2-devel flatbuffers-devel json-c++
+sudo xbps-install iftop usbtop bandwhich bmon bwm-ng
+sudo xbps-install python3-setuptools
+sudo xbps-install zeromq-devel
+sudo xbps-install fmt
+sudo xbps-install spdlog
+sudo xbps-install libspdlog
+sudo xbps-install libspdlog-devel
+sudo xbps-install spdlog-devel
+sudo xbps-install zeromq xorg-minimal libspdlog glfw-devel sqlite
+sudo xbps-install -u
+sudo xbps-install zeromq xorg-minimal libspdlog glfw-devel pthread-devel sqlite
+sudo xbps-install preload
+sudo xbps-install ncdu2 dutree duf
+sudo xbps-install -u helix
+sudo xbps-install -u hx
+sudo xbps-install gdb
+sudo xbps-install podman-compose podman-tui
+sudo xbps-install benchmark benchmark-devel
+sudo xbps-install python3-pybind11
+sudo xbps-install abseil-cpp abseil-cpp-devel
+sudo xbps-install binutils-devel base-devel libassimp-devel eigen freeimage-devel libgdal-devel gflags-devel gts-devel jsoncpp-devel tinyxml2-devel libwebsockets-devel libXmu-devel libyaml-devel python3-pytest python3-yaml qt6-declarative-devel qt6-charts qt6-charts-devel qt6-qt5compat-devel qt6-qt5compat qt6-location-devel qt6-translations qt6-position qt6-position-devel qt6-base ruby-devel swig
+sudo xbps-install Sy
+sudo xbps-install binutils-devel base-devel libassimp-devel eigen freeimage-devel libgdal-devel gflags-devel gts-devel jsoncpp-devel tinyxml2-devel libwebsockets-devel libXmu-devel libyaml-devel python3-pytest python3-yaml qt6-declarative-devel qt6-charts qt6-charts-devel qt6-qt5compat-devel qt6-qt5compat qt6-location-devel qt6-translations qt6-position qt6-position-devel qt6-quickcontrols2 qt6-quickcontrols2-devel qt6-base ruby-devel swig
+sudo xbps-install binutils-devel base-devel libassimp-devel eigen freeimage-devel libgdal-devel gflags-devel gts-devel jsoncpp-devel tinyxml2-devel libwebsockets-devel libXmu-devel libyaml-devel python3-pytest python3-yaml qt6-declarative-devel qt6-charts qt6-charts-devel qt6-qt5compat-devel qt6-qt5-compat qt6-location-devel qt6-translations qt6-position qt6-position-devel qt6-quickcontrols2 qt6-quickcontrols2-devel qt6-base ruby-devel swig
+sudo xbps-install binutils-devel base-devel libassimp-devel eigen freeimage-devel libgdal-devel gflags-devel gts-devel jsoncpp-devel tinyxml2-devel libwebsockets-devel libXmu-devel libyaml-devel python3-pytest python3-yaml qt6-declarative-devel qt6-quickcontrols2 qt6-quickcontrols2-devel qt6-charts qt6-charts-devel qt6-qt5compat-devel qt6-qt5-compat qt6-location-devel qt6-translations qt6-position qt6-position-devel qt6-quickcontrols2 qt6-quickcontrols2-devel qt6-base ruby-devel swig
+sudo xbps-install binutils-dev build-essential cmake curl libassimp-dev libavcodec-dev libavdevice-dev libavformat-dev libavutil-dev libcurl4-openssl-dev libeigen3-dev libfreeimage-dev libgdal-dev libgflags-dev libgts-dev libjsoncpp-dev libprotobuf-dev libprotoc-dev libpython3-dev libswscale-dev libtinyxml2-dev libwebsockets-dev libxi-dev libxmu-dev libyaml-dev libzip-dev pkg-config python3-distutils python3-pybind11 python3-pytest python3-yaml qml-module-qt-labs-folderlistmodel qml-module-qt-labs-platform qml-module-qt-labs-settings qml-module-qtcharts qml-module-qtgraphicaleffects qml-module-qtlocation qml-module-qtpositioning qml-module-qtqml-models2 qml-module-qtquick-controls qml-module-qtquick-controls2 qml-module-qtquick-dialogs qml-module-qtquick-layouts qml-module-qtquick-templates2 qml-module-qtquick-window2 qml-module-qtquick2 qtbase5-dev qtdeclarative5-dev qtquickcontrols2-5-dev ruby-dev swig uuid-dev xvfb
+sudo xbps-install ranger
+sudo xbps-install moc
+sudo xbps-install mocp
+sudo xbps-install onedrive
+sudo xbps-install perf
+sudo xbps-install spotify
+sudo xbps-install void-repo-nonfree
+sudo xbps-install nss-mdns
+sudo xbps-install avahi-discover
+sudo xbps-install avahi avahi-discover
+sudo xbps-install -R hostdir/binpkgs tomlplusplus
+sudo xbps-install pkgconf
+sudo xbps-install -R hostdir/binpkgs hyprland-devel hyprland-protocols
+sudo xbps-install libdisplay-info-devel
+sudo xbps-install libdisplayinfo-devel
+sudo xbps-install -R hostdir/binpkgs -f tomlplusplus
+sudo xbps-install -R hostdir/binpkgs xdg-desktop-portal-hyprland
+sudo xbps-install -R hostdir/binpkgs -u xdg-desktop-portal-hyprland
+sudo xbps-install -Ru hostdir/binpkgs xdg-desktop-portal-hyprland
+sudo xbps-install libzip-devel
+sudo xbps-install lf lfm
+sudo xbps-install -u xz
+sudo xbps-install lumina-pdf xreader
+sudo xbps-install knotes
+sudo xbps-install quota
+sudo xbps-install nix
+sudo xbps-install zig
+sudo xbps-install glibc-devel
+sudo xbps-install python3-evdev python3-numpy python3-imageio python3-cairo python3-psutil python3-pam python3-pyfiglet python3-thefuzz
+sudo xbps-install python3-evdev python3-numpy python3-imageio python3-cairo python3-psutil python3-pam python3-pyfiglet python3-thefuzz python3-dasbus
+sudo xbps-install pywm
+sudo xbps-install pwm
+sudo xbps-install gitk
+sudo xbps-install git-gui
+sudo xbps-install dconf-editor
+sudo xbps-install helio-sequencer
+sudo xbps-install GConf
+sudo xbps-install jamesdsp
+sudo xbps-install libgnome-keyring imwheel
+sudo xbps-install qt5ct
+sudo xbps-install gtk-lshw
+sudo xbps-install lshw
+sudo xbps-install libcanberra-gtk libcanberra-utils oxygen-sounds
+sudo xbps-install qt6-base
+sudo xbps-install qtcreator-qt6
+sudo xbps-install qt5-declarative-devel qt6-declarative-devel
+sudo xbps-install libdri2-git
+sudo xbps-install libdr2-git
+sudo xbps-install qt6ct
+sudo xbps-install lxappearance
+sudo xbps-install git-gui gitk
+sudo xbps-install gittyup
+sudo xbps-install zip
+sudo xbps-install libcap-ng-devel
+sudo xbps-install fakeroot
+sudo xbps-install chromium element-desktop
+sudo xbps-install electron24
+sudo xbps-install libnotify
+sudo xbps-install libnss
+sudo xbps-install power-profiles-daemon
+sudo xbps-install flatpak -u
+sudo xbps-install chess-tui dreamchess cutechess-gui gnuchess gnushogi gnome-chess
+sudo xbps-install chess dreamchess cutechess-gui gnuchess gnushogi gnome-chess
+sudo xbps-install libspa-bluetooth
+sudo xbps-install bluez-alsa
+sudo xbps-install qt5-styleplugins
+sudo xbps-install gradience
+sudo xbps-install helio
+sudo xbps-install kvantum
+sudo xbps-install yaru-plus
+sudo xbps-install wezterm tilda
+sudo xbps-install gauke-terminal wezterm tilda
+sudo xbps-install gauke wezterm tilda
+sudo xbps-install adwaita-plus
+sudo xbps-install gnome-icon-theme-symbolic
+sudo xbps-install libunwind-devel zstd-devel
+sudo xbps-install libxcb-devel
+sudo xbps-install clang
+sudo xbps-install git-lfs
+sudo xbps-install fzf
+sudo xbps-install fd
+sudo xbps-install mirage
+sudo xbps-install python3-pyclip wl-clipboard
+sudo xbps-install waydroid
+sudo xbps-install -R hostdir/binpkgs hyprland
+sudo xbps-install -R hostdir/binpkgs hyprlang --update
+sudo xbps-install -R hostdir/binpkgs hyprland --update
+sudo xbps-install -R hostdir/binpkgs xdg-desktop-portal-hyprland --update
+sudo xbps-install -R hostdir/binpkgs hyprland-protocols --update
+sudo xbps-install -R --update hostdir/binpkgs hyprland
+sudo xbps-install -Ru hostdir/binpkgs hyprland
+sudo xbps-install ./hyprland-0.35.0_1.x86_64-musl.xbps
+sudo xbps-install glew-devel c-ares-devel libtool libcurl-devel
+sudo xbps-install -Su
+sudo xbps-install pam-devel
+sudo xbps-install pam
+sudo xbps-install dart-sass
+sudo xbps-install bun
+sudo xbps-install wayfire wayfire-plugins-extra wcm wf-config wf-shell
+sudo xbps-install wayfire wayfire-plugins-extra wxm wf-config wf-shell
+sudo xbps-install u
+sudo xbps-install firefox -u
+sudo xbps-install kristall eolie dillo falkon epiphany midori otter-browser vimb
+sudo xbps-install patchage
+sudo xbps-install pavucontrol-qt
+sudo xbps-install qjackctl patchmatrix jack_mixer
+sudo xbps-install qpwgraph helvum
+sudo xbps-install qpwgraph helvum easyeffects
+sudo xbps-install nwg-launchers
+sudo xbps-install nwg-launcher
+sudo xbps-install onlyoffice
+sudo xbps-install libreoffice
+sudo xbps-install krita gimp inkscape
+sudo xbps-install krita
+sudo xbps-install lutris
+sudo xbps-install sqlitebrowser
+sudo xbps-install vim
+sudo xbps-install neofetch screenFetch ufetch
+cat .local/share/fish/fish_history | grep xbps-install
+sudo xbps-install delta-chat
+sudo xbps-install deltachat
+sudo xbps-install openmpt123 klystrack milkytracker furnace dijo
+sudo xbps-install schismtracker
+sudo xbps-install freecad kicad lmms
+sudo xbps-install Tuba lemoa
+sudo xbps-install tuba lemoa
+sudo xbps-install python3-i3ipc
+sudo xbps-install python3-i3ipx
+sudo xbps-install playerctl
+sudo xbps-install gtk-layer-shell-devel
+sudo xbps-install gtk3-devel
+sudo xbps-install gtk3.0-devel
+sudo xbps-install gtk-3.0-devel
+sudo xbps-install gtk-layer-shell
+sudo xbps-install go
+sudo xbps-install blender godot
+sudo xbps-install blender
+sudo xbps-install menulibre
+sudo xbps-install edid-decode
+sudo xbps-install audacity
+sudo xbps-install audacious
+sudo xbps-install xorg-server-xephyr
+sudo xbps-install xdotool xpra
+sudo xbps-install nx-libs catatonit xclip
+sudo xbps-install weston-x11
+sudo xbps-install intel-gpu-tools
+sudo xbps-install gstreamer-vaapi
+sudo xbps-install libva-utils
+sudo xbps-install libva
+sudo xbps-install mesa-vaapi
+sudo xbps-install linux-firmware-intel
+sudo xbps-install intel-video-accel
+sudo xbps-install wlroots
+sudo xbps-install
+sudo xbps-install openshot shotcut flowblade
+sudo xbps-install obs
+
+Removed: 
+
+obs wlroots wlroots-devel nwg-launchers pkgconf dijo vim kristall bun waydroid nix adwaita-plus kitty qt5ct git-gui gitk tomlplusplus pkg-config avahi avahi-discover ranger ncdu libspdlog iftop usbtop bmon bwm-ng clang17 clang15 mps-youtube youtube-viewer rustup qiv qimgv qqView phototoni viewnior geeqie fim transmission othman godot helio-sequencer mate lightdm-gtk-greeter lightdm-webkit-greeter xdm exa eza vscode xfce4-settings
